@@ -16,3 +16,4 @@ Para iniciar con este proyecto, es necesario que todos tengamos el proyecto en n
 - Andres Teixido, ANDRES-TEIXIDO
 - Allan Malcolm, amalcolm93
 - Cristian Ciz, Cristant92
+- María de los Ángeles Bernárdez, MaryOfLA
